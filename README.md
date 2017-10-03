@@ -8,7 +8,7 @@ under construction
 
 ## Pending Projects
 ##### Powershell
-- Start Up Script for VM
+- Start Up Script for VM - (PROD-CHERRY-DB2)
   1. initiate sqlserver.exe
   2. create the folder D:\log\ on the ephemeral drive
   3. create the folder D:\data\ on the ephemeral drive
